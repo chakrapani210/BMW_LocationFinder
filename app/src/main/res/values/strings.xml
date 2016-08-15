@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LocationFinder</string>
+    <string name="address">Address:</string>
+    <string name="location">Location:</string>
+    <string name="sort_by_name">Sort by Name</string>
+    <string name="sort_by_distance">Sort by Distance</string>
+    <string name="sort_by_arrival_time">Sort by Arrival Time</string>
+    <string name="geo_api_key">AIzaSyBkGIVfUOS4qxUUixtj-A00LGBWvDv-LlM</string>
+    <string name="no_network">Please check your network connection</string>
+    <string name="retry">Retry</string>
+</resources>
